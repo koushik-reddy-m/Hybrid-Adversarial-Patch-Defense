@@ -148,4 +148,4 @@ Stage 3: GradCAM Masking + Reclassification
 
 ## Author
 
-**Koushik Reddy Madhadi** 
+**Madhadi Koushik Reddy** 
